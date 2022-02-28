@@ -1,0 +1,343 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An elegie on the most reverend &amp; learned James Vsher L. Archbishop of Armagh, and Primate of Ireland; who departed this life March 21. 1655. / Written by John Quarles.</title>
+            <author>Quarles, John, 1624-1665.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91576</idno>
+            <idno type="STC">Wing Q126</idno>
+            <idno type="STC">Thomason E1643_2</idno>
+            <idno type="STC">ESTC R203344</idno>
+            <idno type="EEBO-CITATION">99863319</idno>
+            <idno type="PROQUEST">99863319</idno>
+            <idno type="VID">170200</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91576)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170200)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 207:E1643[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An elegie on the most reverend &amp; learned James Vsher L. Archbishop of Armagh, and Primate of Ireland; who departed this life March 21. 1655. / Written by John Quarles.</title>
+                  <author>Quarles, John, 1624-1665.</author>
+               </titleStmt>
+               <extent>[8], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for John Stafford, in the George-yard neer Fleet-bridge.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>The first leaf is blank.</note>
+                  <note>Annotation on Thomason copy: "Aprill 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ussher, James, 1581-1656 --  Poetry --  Early works to 1800.</term>
+               <term>Elegiac poetry, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170200:1" rendition="simple:additions"/>
+            <p>
+               <hi>AN</hi> ELEGIE <hi>ON THE</hi> Moſt Reverend &amp; Learned <hi>JAMES <g ref="char:V">Ʋ</g>SHER</hi> L. Archbiſhop of <hi>Armagh,</hi> and Primate of <hi>Ireland;</hi> Who departed this life <hi>March</hi> 21. 1655.</p>
+            <p>Written by JOHN QUARLES.</p>
+            <p>
+               <add>Aprill 29</add> 
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>John Stafford,</hi> in the George-yard neer Fleet-bridge. 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170200:2"/>
+            <pb facs="tcp:170200:2" rendition="simple:additions"/>
+            <head>To the truely virtuous and Right Honourable, <hi>The Counteſſe of Peterborough.</hi>
+            </head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Am ſorry that the ſadneſſe of the occa<g ref="char:EOLhyphen"/>ſion inforces mee to the boldneſs of preſenting you with this elegious Poeme; but, though <hi>I</hi> am confident the lines cannot merit your re<g ref="char:EOLhyphen"/>ſpect, yet <hi>I</hi> am certain the ſub<g ref="char:EOLhyphen"/>ject of them will procure your approbation. <hi>Madam,</hi> as you were favourably pleaſed to e<g ref="char:EOLhyphen"/>ſteem
+<pb facs="tcp:170200:3" rendition="simple:additions"/>him in his life, ſo I am confident you will reſpect him in his death; and (<hi>I</hi> hope) own the mean endeavours of</p>
+            <closer>
+               <salute>Madam,</salute> 
+               <signed>Your true honourer <hi>John Quarles.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:170200:3"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute>
+            </opener>
+            <p>
+               <hi>I</hi> Need not tell thee what a loſſe we have lately received, for it is writ in legible Characters of grief in every eye; but one thing I ſhall deſire thee to take notice of; which is, that as he was one of an hundred, ſo he was the last of a hundred <hi>Archbiſhops</hi> of <hi>Armagh;</hi> and as he could not live in a worſe age, ſo he could not dye in a better time, to whoſe memory I have conſecrated theſe few lines, deſiring thee to reade ſeriouſly, and judge favourably:</p>
+            <closer>
+               <salute>Farewell.</salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="elegy">
+            <pb facs="tcp:170200:4"/>
+            <pb n="1" facs="tcp:170200:4" rendition="simple:additions"/>
+            <head>
+               <hi>AN</hi> ELEGIE ON The moſt Reverend &amp; Learned <hi>JAMES <g ref="char:V">Ʋ</g>SHER</hi> L. Archbiſhop of <hi>Armagh,</hi> &amp; Primate of <hi>Ireland,</hi> who de<g ref="char:EOLhyphen"/>parted this life <hi>March</hi> 21. 1655.</head>
+            <lg>
+               <l>THen weep no more; ſee how his peacefull breſt</l>
+               <l>Rock't by the hand of Death, takes quiet reſt.</l>
+               <l>Diſturb him not; but let him ſweetly take</l>
+               <l>A full repoſe, he hath been long awake;</l>
+               <l>Tyr'd with the toyle of a moſt tedious day,</l>
+               <l>He ſought refreſhment; ſeeking, found the way,</l>
+               <l>The way to heaven, and being merry-hearted</l>
+               <l>Shook hands with fleſh &amp; blood, &amp; ſo departed;</l>
+               <l>
+                  <pb n="2" facs="tcp:170200:5"/>
+Nobly reſolv'd; 'tis abſolutely knowne</l>
+               <l>He left a Dunghill, to imbrace a Throne.</l>
+               <l>Where now he ſits, cloath'd with celeſtial pride.</l>
+               <l>Reader, 'tis worſe than death, to ſay, he dy'd:</l>
+               <l>He onely ſlumbred from himſelf, and ſaw</l>
+               <l>'Twas late, (but ah too ſoon!) and that the Law</l>
+               <l>Of Nature urg'd, he thought it too much wrong</l>
+               <l>To his own good, to ſtay on earth too long;</l>
+               <l>
+                  <hi>Time, and the Grave, make equall every thing,</hi>
+               </l>
+               <l>
+                  <hi>Here lyes the Begger, cloathed like the King.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ſtay my Muſe, Is't poſſible the Sun</l>
+               <l>Can quit the firmament, unmiſs'd, and run</l>
+               <l>Beyond our ſight? If ſo, <hi>Armagh</hi> may be</l>
+               <l>Obliterated from poſterity.</l>
+            </lg>
+            <lg>
+               <l>But is he fled?—</l>
+               <l>Then let the <hi>Nylus</hi> of each ſwelling eye</l>
+               <l>Ore flow our <hi>Aegypt;</hi> ſtay, raſh quill, but why?</l>
+               <l>Why ſhould we wooe forth <hi>tears?</hi> we had more need</l>
+               <l>To weep in <hi>blood;</hi> the <hi>Church</hi> begins to bleed,</l>
+               <l>And who can blame her? we muſt all confeſſe</l>
+               <l>She had few Heads before, but now one leſſe:</l>
+               <l>Alas poor <hi>Orphan!</hi> how is ſhe oppreſt</l>
+               <l>To loſe ſo dear a friend, and ſee the reſt</l>
+               <l>Lye drawing on; this ſorrow ſure will keep</l>
+               <l>Her eye-lyds open: let her, let her weep</l>
+               <l>Till Heav'n ſhall pleaſe to contradict her fate,</l>
+               <l>
+                  <hi>A weeping Church portends a bleeding State.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>What? are the Muſes ſilent? are they all</l>
+               <l>Delug'd with teares? ſhall their <hi>Moecenas</hi> fall</l>
+               <l>
+                  <pb n="3" facs="tcp:170200:5"/>
+Without regard? I rather would believe</l>
+               <l>They're now complotting joyntly how to grieve</l>
+               <l>With moſt advantage: ſorrow often ſwells</l>
+               <l>In tears, before it flowes in words, and tells</l>
+               <l>Her melancholly ſtory; they that know</l>
+               <l>The courſe of grief, will grant it to be ſo;</l>
+               <l>Silence is now a crime, and I had rather</l>
+               <l>(Like <hi>Heraclitus</hi>) weep and write together,</l>
+               <l>Than reſt in ſilence, for I have a debt</l>
+               <l>Of gratitude to pay, which will not let</l>
+               <l>My fancy reſt contented till I have</l>
+               <l>Layd down my gratefull off'ring at his grave.</l>
+            </lg>
+            <lg>
+               <l>That little education I dare own</l>
+               <l>I had (I'm proud to ſay) from him alone;</l>
+               <l>His grave advice would oftentimes diſtill</l>
+               <l>Into my eares, and captivate my will:</l>
+               <l>Th'example of his life did every day</l>
+               <l>Afford me Lectures, I dare boldly ſay,</l>
+               <l>Nay and affirm it with a joyfull breath,</l>
+               <l>Saint like he liv'd in <hi>Heav'n,</hi> although on earth:</l>
+               <l>I could believe that he had half forgot</l>
+               <l>There was a world, becauſe he minded not</l>
+               <l>Inferiour objects; nay, I dare ſay more</l>
+               <l>He had quite forgot it, onely for the poor,</l>
+               <l>Who (whilſt the fountain of his fortunes run)</l>
+               <l>Did dayly feel his charitable ſun</l>
+               <l>Refreſh their wants; but when injurious fate</l>
+               <l>Had built a Croſſe upon his whole eſtate,</l>
+               <l>Then he, Heav'n-raviſh'd ſoule, took ſpeedy care</l>
+               <l>To wiſh their welfare, and relief by pray'r;</l>
+               <l>
+                  <pb n="4" facs="tcp:170200:6"/>
+I will not tyre my Reader, to expreſſe</l>
+               <l>His many troubles, nor the great diſtreſſe</l>
+               <l>He often knew; but this Ile ſay, that he</l>
+               <l>Was ſo acquainted with all miſery,</l>
+               <l>That like th' out-daring rocke, no ſtorme could move</l>
+               <l>His ſoule, being fenc'd (with heav'ns proof ar<g ref="char:EOLhyphen"/>mour) <hi>Love.</hi>
+               </l>
+               <l>As for <hi>his Learning,</hi> I muſt needs confeſſe</l>
+               <l>'Tis better known than I can well expreſſe;</l>
+               <l>Yet this Ile ſay, his unexampled life</l>
+               <l>Was a continuall ſtudy void of ſtrife:</l>
+               <l>He was a <hi>living Library,</hi> in whom</l>
+               <l>A man might reade <hi>things paſt,</hi> &amp; <hi>things to come.</hi>
+               </l>
+               <l>What need we more? 'tis childiſh to repeat</l>
+               <l>Each virtue, when he had them in the great;</l>
+               <l>And they that wiſh to know him truly well</l>
+               <l>Let them ask <hi>Rome,</hi> for <hi>Rome</hi> can ſadly tell;</l>
+               <l>Now <hi>Ireland</hi> weeps, <hi>England</hi> laments, but <hi>Rome</hi>
+               </l>
+               <l>Cryes out, a <hi>Heretick</hi> deſerves no tomb.</l>
+            </lg>
+            <lg>
+               <l>Ye <hi>Prodigies</hi> of Faction, we can tell</l>
+               <l>He's gon to <hi>Heav'n</hi> with a miracle,</l>
+               <l>His ſoule's above your pray'rs; be this his glory,</l>
+               <l>He went to <hi>God,</hi> but miſs'd your <hi>Purgatory;</hi>
+               </l>
+               <l>Then ceaſe your ſmiles, convert them into teares</l>
+               <l>For your own follyes, let your hearty pray'rs</l>
+               <l>More <hi>Heav'n</hi> to pity, that at laſt ye may</l>
+               <l>Enjoy the comfort of a laſting day,</l>
+               <l>And ſo farewell—</l>
+            </lg>
+            <lg>
+               <pb n="5" facs="tcp:170200:6"/>
+               <l>—Methinks I ſadly heare</l>
+               <l>The <hi>Muſes</hi> groane forth <hi>Elegies,</hi> and roare</l>
+               <l>Their ſhrill-tun'd voices, every high-bred ſtraine</l>
+               <l>Does ſeem, if not a heart, to break a veyne;</l>
+               <l>Oh blame them not, for even thus they cry'd</l>
+               <l>When their belov'd, their great <hi>Moecenas</hi> dy'd;</l>
+               <l>Great loſſes, cauſe great grief, yet let us ſay</l>
+               <l>(Though <hi>God</hi> was pleas'd to take <hi>Armagh</hi> away)</l>
+               <l>That he was juſt, becauſe he did prolong</l>
+               <l>His well-ſpent dayes, and lend him us ſo long.</l>
+               <l>His mercy like the <hi>Phoenix,</hi> never dyes,</l>
+               <l>One paſſes by, to let the other riſe:</l>
+               <l>Thus having payd the tribute of my heart,</l>
+               <l>I muſt (although unwillingly) depart.</l>
+               <l>Farewell bleſt <hi>ſoule,</hi> farewell, all I deſire</l>
+               <l>Is to ſhake ſoules, not hands, and ſo retire.</l>
+            </lg>
+         </div>
+         <div type="epitaph">
+            <pb facs="tcp:170200:7"/>
+            <pb n="7" facs="tcp:170200:7"/>
+            <head>His Epitaph.</head>
+            <l>
+               <hi>REader,</hi> theſe narrow confines doe contain</l>
+            <l>
+               <hi>Romes</hi> envy, <hi>Irelands,</hi> loſs, &amp; <hi>Englands</hi> gain.</l>
+            <l>If true deſert, a juſt reward might have,</l>
+            <l>The largeſt Continent ſhould be his Grave;</l>
+            <l>But he's content, <hi>Reader,</hi> be this thy care,</l>
+            <l>Think on our loſſe, depart, but leave a teare.</l>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:170200:8"/>
+            <head>Two Bookes lately printed for <hi>John Stafford</hi> in <hi>George-yard</hi> neer <hi>Fleet-bridge.</hi>
+            </head>
+            <p n="1">1. A Collection of SERMONS:
+<list>
+                  <item>1. <hi>The beſt Employment.</hi>
+                  </item>
+                  <item>2. <hi>A Gift for God alone.</hi>
+                  </item>
+                  <item>3. <hi>The true Penitent.</hi>
+                  </item>
+                  <item>4. <hi>The beſt Act of Oblivion.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>Together with <hi>NOTES</hi> upon JONAH.<lb/>
+By <hi>Thomas Fuller.</hi>
+            </p>
+            <p n="2">2. DIVINE MEDITATIONS upon ſeverall ſubjects, &amp;c.<lb/>
+Written by <hi>John Quarles.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
